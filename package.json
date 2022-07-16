@@ -1,0 +1,14 @@
+{
+  "name": "challenge-ui",
+  "version": "1.0.0",
+  "description": "challenge ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome"
+  },
+  "author": "danilo ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.0.3"
+  }
+}
